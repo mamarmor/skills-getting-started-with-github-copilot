@@ -1,0 +1,62 @@
+{
+  "Basketball": {
+    "name": "Basketball",
+    "category": "sports",
+    "participants": []
+  },
+  "Soccer": {
+    "name": "Soccer",
+    "category": "sports",
+    "participants": []
+  },
+  "Tennis": {
+    "name": "Tennis",
+    "category": "sports",
+    "participants": []
+  },
+  "Volleyball": {
+    "name": "Volleyball",
+    "category": "sports",
+    "participants": []
+  },
+  "Painting": {
+    "name": "Painting",
+    "category": "artistic",
+    "participants": []
+  },
+  "Drawing": {
+    "name": "Drawing",
+    "category": "artistic",
+    "participants": []
+  },
+  "Dance": {
+    "name": "Dance",
+    "category": "artistic",
+    "participants": []
+  },
+  "Music": {
+    "name": "Music",
+    "category": "artistic",
+    "participants": []
+  },
+  "Chess": {
+    "name": "Chess",
+    "category": "intellectual",
+    "participants": []
+  },
+  "Debate": {
+    "name": "Debate",
+    "category": "intellectual",
+    "participants": []
+  },
+  "Coding": {
+    "name": "Coding",
+    "category": "intellectual",
+    "participants": []
+  },
+  "Science Club": {
+    "name": "Science Club",
+    "category": "intellectual",
+    "participants": []
+  }
+}
